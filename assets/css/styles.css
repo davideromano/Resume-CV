@@ -256,7 +256,7 @@ p {
   color: #fb866a;
 }
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .sidebar-wrapper {
     position: static;
     width: inherit;
@@ -275,7 +275,7 @@ p {
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {
   .skillset .level-title {
     display: inline-block;
     float: left;
@@ -289,6 +289,6 @@ p {
     position: relative;
     top: 1px;
   }
-}
+}*/
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
